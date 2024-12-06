@@ -1,5 +1,5 @@
 import streamlit as st
-import psycopg2
+import asyncpg
 import pandas as pd
 import os  # Importing os for environment variables
 
